@@ -1,0 +1,3 @@
+C:\Users\Unmesh\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Unmesh\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.Resources.resources
+C:\Users\Unmesh\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.vbproj.GenerateResource.Cache

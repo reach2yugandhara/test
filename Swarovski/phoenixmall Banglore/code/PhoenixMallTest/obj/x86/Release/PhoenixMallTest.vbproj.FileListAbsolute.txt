@@ -1,0 +1,60 @@
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+D:\Phoenix restart\New folder (2)\Voyger\Voi\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+D:\Phoenix restart\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+E:\dev\bak\Sumit\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+E:\dev\March\Swaroski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+E:\dev\March\Swaroski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+E:\dev\March\Swaroski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+E:\dev\March\Swaroski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\dev\June validation\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\dev\June validation\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\dev\June validation\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+E:\dev\June validation\Swarovski\GST Code\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+E:\dev\Jul validation\swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\Mahesh\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+E:\Mahesh\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+E:\Mahesh\Swarovski\code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb

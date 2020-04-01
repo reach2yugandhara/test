@@ -1,0 +1,105 @@
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\ritika\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\ritika\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\ritika\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\ritika\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\ritika\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\ritika\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\ritika\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\ritika\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\ritika\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\hunan\Hunan\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\samsonite\code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\Lavie\code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\accesrisde\code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\accessorize\code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+\\MSERVER\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+\\MSERVER\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+\\MSERVER\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+\\192.168.0.100\SharedData\Phoenix\Store Codes\LocalSvn\trunk\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\phoenix\accessorize vb\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\phoenix\accessorize vb\samsonite\Lavie,accessorize,samsonite,high sierra\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb

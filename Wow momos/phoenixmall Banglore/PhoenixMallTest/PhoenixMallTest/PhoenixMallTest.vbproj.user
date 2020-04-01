@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>App.ini</StartArguments>
+    <StartWorkingDirectory>E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>App.ini</StartArguments>
+    <StartWorkingDirectory>E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

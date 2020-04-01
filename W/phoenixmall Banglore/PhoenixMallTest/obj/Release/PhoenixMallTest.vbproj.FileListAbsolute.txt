@@ -1,0 +1,36 @@
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+E:\ashwini\phoenix\peter england\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+E:\ashwini\phoenix\peter england\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+E:\ashwini\phoenix\aurelia\without log\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+E:\ashwini\phoenix\w\Code\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache

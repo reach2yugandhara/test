@@ -1,0 +1,51 @@
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\being Human\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\being Human\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\CP-code\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\CP-code\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\CP-code\CottonW\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Release\PhoenixMallTest.exe
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Release\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Release\PhoenixMallTest.xml
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Release\PhoenixMallTest.exe
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Release\PhoenixMallTest.xml
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Release\PhoenixMallTest.pdb

@@ -1,0 +1,31 @@
+
+
+username & pass intouch	
+
+MBIPL live
+Pramod2013R2 
+
+
+
+select [Receipt No_],timestamp,Gross,Tax,[Total Discount],NetAmount,ReturnAmt,Trans_Stat,Date,Time,Name
+ from Vw_ADSR_Intouch1
+
+
+AL MARKET CITY BANGALORE  (Aldo) 2040053460
+CK MARKET CITY BANGALORE (charles and keith) 4060026870
+IG MARKET CITY BANGALORE (inglot)  
+LA MARKET CITY BANGALORE (lasenza)  8060026840
+Promod Market City Bangalore same  0205185594
+SP MC BANGALORE (call it spring) 6040009520
+
+
+----header
+select [Receipt No_],Date,Time,Gross,NetAmount,Tax,[Total Discount],ReturnAmt,Trans_Stat,Name
+ from Vw_ADSR_Intouch1 where Name='AL MARKET CITY BANGALORE' and Date>='2018-04-01'
+
+--------item
+ select [Receipt No_],[Item No_],Qty,ItemCat,Tax,Disc,NetAmt,Unitprice from Vw_ADSR_Intouch2 where 
+  Name='AL MARKET CITY BANGALORE' and Date>='2018-04-01'
+
+
+Sales

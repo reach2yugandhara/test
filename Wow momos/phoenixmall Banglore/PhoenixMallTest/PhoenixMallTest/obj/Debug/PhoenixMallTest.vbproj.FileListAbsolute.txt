@@ -1,0 +1,18 @@
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.Resources.resources
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+E:\dev\Pallavi\Validations\alensolly-men\Allen men new\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.Resources.resources
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\Allen JR\PhoenixMallTest\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb

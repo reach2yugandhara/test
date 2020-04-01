@@ -1,0 +1,9 @@
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.exe
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.pdb
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\bin\x86\Release\PhoenixMallTest.xml
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\ConsoleApplication1.Resources.resources
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.exe
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.xml
+D:\dev\Niket\Phoenix\Chillies\Chilis Code\PhoenixMallTest\obj\x86\Release\PhoenixMallTest.pdb

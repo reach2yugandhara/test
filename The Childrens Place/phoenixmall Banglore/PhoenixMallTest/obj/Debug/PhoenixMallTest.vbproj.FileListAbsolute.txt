@@ -1,0 +1,48 @@
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+D:\dev\being Human\Backup\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\ConsoleApplication1.Resources.resources
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\dev\being Human\Backup\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+D:\dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\being Human\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\cottonworld\CottonW\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\ConsoleApplication1.Resources.resources
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+D:\dev\Ashish Dev\CP-code\CP\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\bin\Debug\PhoenixMallTest.exe
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\bin\Debug\PhoenixMallTest.pdb
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\bin\Debug\PhoenixMallTest.xml
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\ConsoleApplication1.Resources.resources
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\PhoenixMallTest.vbproj.GenerateResource.Cache
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\PhoenixMallTest.exe
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\PhoenixMallTest.xml
+E:\Mahesh\Phoenix Stores\store codes\The Childrens Place\PhoenixMallTest\obj\Debug\PhoenixMallTest.pdb
